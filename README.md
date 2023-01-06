@@ -15,7 +15,7 @@ How to install kernel:
 
 3) Flash TWRP custom recovery with PC otherwise Android phone
 
-4) Flash Magic Zip with Twrp Recovery latest version
+4) Flash Magisk Zip with Twrp Recovery latest version
 
 5) Reboot your phone setup magisk and check your phone is now successfully to Rooted.
 
@@ -24,7 +24,7 @@ How to install kernel:
 
 After the Kernel is completely flushed, go to the mobile settings and check whether the name of the set has changed after flashing the Kernel. If the name changes, then you are sure.
 
-If you want to use Kali NetHunter, you must install Busybox  on your phone, Busybox  is not provided in the kernel file . If you want you can install Busybox  from playstore or flash Busybox  zip through magic. I would suggest flashing the zip!
+If you want to use Kali NetHunter, you must install Busybox  on your phone, Busybox  is not provided in the kernel file . If you want you can install Busybox  from playstore or flash Busybox  zip through magisk. I would suggest flashing the zip!
 
 For Zip busybox: https://github.com/Magisk-Modules-Repo/busybox-ndk
 
