@@ -1,3 +1,5 @@
+Disclaimer: Don't use this if you don't know what nethunter is and/or you don't know what you are doing. 
+
 If you don't know what kernel is then don't flash it. 
 
 You must know about it if you want to flush, otherwise. don't do it.
