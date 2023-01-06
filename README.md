@@ -48,3 +48,12 @@ Once this is done, if you want to do wifi testing from your phone / use wifi ada
  Flashing this framework zip is mandatory for doing all kinds of hardware related testing through your mobile.
  
  
+Link above 🖇️🖇️
+https://forum.xda-developers.com/t/module-wireless-firmware-for-nethunter.3857465/
+
+https://github.com/rithvikvibhu/nh-magisk-wifi-firmware
+
+If you don't know how to flash Wi-Fi framework with magic then you can watch this video of mine
+https://youtu.be/Ssgt1viwb2U
+
+
