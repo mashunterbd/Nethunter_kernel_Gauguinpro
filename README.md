@@ -44,7 +44,7 @@ After flashing Busybox  or after installing Busybox  from playstore and setup, y
 🖇️ https://play.google.com/store/apps/details?id=com.joeykrim.rootcheck
 
 
-Once this is done, if you want to do wifi testing from your phone / use wifi adapter / bluetooth adapter / HID Device / Rucky / rubber ducky / USB HUMAN INTERFACE DEVICE / then flash the wifi framework zip using magic
+Once this is done, if you want to do wifi testing from your phone / use wifi adapter / bluetooth adapter / HID Device / Rucky / rubber ducky / USB HUMAN INTERFACE DEVICE / then flash the wifi framework zip using magisk 
 
  Flashing this framework zip is mandatory for doing all kinds of hardware related testing through your mobile.
  
@@ -54,7 +54,7 @@ https://forum.xda-developers.com/t/module-wireless-firmware-for-nethunter.385746
 
 https://github.com/rithvikvibhu/nh-magisk-wifi-firmware
 
-If you don't know how to flash Wi-Fi framework with magic then you can watch this video of mine
+If you don't know how to flash Wi-Fi framework with magisk then you can watch this video of mine
 https://youtu.be/Ssgt1viwb2U
 
 
