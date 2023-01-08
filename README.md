@@ -8,7 +8,15 @@ After doing this, if your phone gets bricked or if there is any problem with the
 
 
 How to install kernel: 
+---------------------------------------------------------------
 
+⚠️It has only been tested running Android version 12.So 
+it will work properly on Android version 12.
+You can test if it works on other Android versions and let us know and we will add it.
+
+⚠️ it's has only been tested running MIUI 12.××× and 13.0.6. 
+
+------------------------------------------------------------------------------------------
 1) you need to download the Kernel
 
 2) must be sure your phone bootloader is unlocked 
