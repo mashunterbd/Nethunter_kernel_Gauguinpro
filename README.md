@@ -34,9 +34,10 @@ After the Kernel is completely flushed, go to the mobile settings and check whet
 
 If you want to use Kali NetHunter, you must install Busybox  on your phone, Busybox  is not provided in the kernel file . If you want you can install Busybox  from playstore or flash Busybox  zip through magisk. I would suggest flashing the zip!
 
-For Zip busybox: https://github.com/Magisk-Modules-Repo/busybox-ndk
+## For Zip busybox:
+https://github.com/Magisk-Modules-Repo/busybox-ndk
 
-Download and setup some Busybox  for your phone that works on your phone: 
+## Download and setup some Busybox  for your phone that works on your phone: 
 
 🖇️
 
@@ -47,7 +48,7 @@ Download and setup some Busybox  for your phone that works on your phone:
 3. https://play.google.com/store/apps/details?id=ru.meefik.busybox
 
 
-After flashing Busybox  or after installing Busybox  from playstore and setup, you can check if Busybox  is installed on your phone with this application: 
+## After flashing Busybox  or after installing Busybox  from playstore and setup, you can check if Busybox  is installed on your phone with this application: 
 
 🖇️ https://play.google.com/store/apps/details?id=com.joeykrim.rootcheck
 
@@ -57,12 +58,12 @@ Once this is done, if you want to do wifi testing from your phone / use wifi ada
  Flashing this framework zip is mandatory for doing all kinds of hardware related testing through your mobile.
  
  
-Link above 🖇️🖇️
+## Link above 🖇️🖇️
 https://forum.xda-developers.com/t/module-wireless-firmware-for-nethunter.3857465/
 
 https://github.com/rithvikvibhu/nh-magisk-wifi-firmware
 
-If you don't know how to flash Wi-Fi framework with magisk then you can watch this video of mine
+## If you don't know how to flash Wi-Fi framework with magisk then you can watch this video of mine
 https://youtu.be/Ssgt1viwb2U
 
 
