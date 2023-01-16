@@ -20,7 +20,7 @@ You can test if it works on other Android versions and let us know and we will a
 
 ------------------------------------------------------------------------------------------
 1) you need to download the Kernel
-[![](https://img.shields.io/badge/kernel-blue)](https://github.com/masshuvo/Nethunter_kernel_Gauguinpro/releases/download/4.19/Nexus_NetHunter-2.zip)
+[![](https://img.shields.io/badge/kernel-blue)(https://github.com/masshuvo/Nethunter_kernel_Gauguinpro/releases/download/4.19/Nexus_NetHunter-2.zip)
 
 2) must be sure your phone bootloader is unlocked 
 
