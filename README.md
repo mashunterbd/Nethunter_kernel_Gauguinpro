@@ -70,7 +70,7 @@ https://youtu.be/Ssgt1viwb2U
 ## Download Kali Nethunter latest version 
 https://kali.download/nethunter-images/
 
-This video shows how to download kali netHunter:
+This video shows how to download kali netHunter and fully setup:
 
 https://youtu.be/HHMo7UXf0V4
 
