@@ -37,7 +37,7 @@ After the Kernel is completely flushed, go to the mobile settings and check whet
 
 If you want to use Kali NetHunter, you must install Busybox  on your phone, Busybox  is not provided in the kernel file . If you want you can install Busybox  from playstore or flash Busybox  zip through magisk. I would suggest flashing the zip!
 
-## For Zip busybox:
+## For Zip busybox: [![](https://img.shields.io/badge/Busybox-A12-blue)](https://github.com/masshuvo/Nethunter_kernel_Gauguinpro/releases/download/Busybox12/Busybox-for-Android-NDK_1.34.1_.13412.zip)
 https://github.com/Magisk-Modules-Repo/busybox-ndk
 https://github.com/meefik/busybox
 
