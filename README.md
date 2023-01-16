@@ -76,7 +76,9 @@ https://youtu.be/HHMo7UXf0V4
 
 ----------------------------------------------------------------------------------------
 after flash kali netHunter than you need to give permissionpermission to use kali netHunter: 
+
 **Open kali terminal**
+
 
 **click Androidsu**
 
