@@ -16,6 +16,8 @@ You can test if it works on other Android versions and let us know and we will a
 
 ⚠️ it's has only been tested running MIUI 12.××× and 13.0.6. 
 
+🌐Use Magisk 23 - 25.2 other latest version.
+
 ------------------------------------------------------------------------------------------
 1) you need to download the Kernel
 
