@@ -118,4 +118,26 @@ echo 'APT::Sandbox::User "root";' > /etc/apt/apt.conf.d/01-android-nosandbox
 ```
 
 
+Before we start testing web applications' security, we need to be sure that we have all the necessary up-to-date tools. This recipe covers the basic task of keeping Kali Nethunter and its tools at their most recent versions.
 
+How to do it...
+
+Once you have a working instance of Kali Nethunter up and running, perform the following steps:
+
+Log in as a root on Kali Nethunter; the default password is "toor", without the quotes. You can also use su to switch the user or sudo to execute single commands if using a regular user is preferred instead of root.
+
+Open a terminal.
+
+Run the apt-get update command. This will download the updated list of packages (applications and tools) that are available to install.
+
+```apt-get update```
+
+Once the update is finished, run the following command to update non-system packages to their last stable version:
+
+```apt-get upgrade```
+
+When asked to continue, press Y and then press Enter.
+
+Next, let's upgrade our system. Type the following command and press Enter:
+
+```apt-get dist-upgrade```
