@@ -67,3 +67,8 @@ https://github.com/rithvikvibhu/nh-magisk-wifi-firmware
 https://youtu.be/Ssgt1viwb2U
 
 
+## Download Kali Nethunter latest version 
+https://kali.download/nethunter-images/
+
+This video shows how to download kali netHunter:
+https://youtu.be/HHMo7UXf0V4
