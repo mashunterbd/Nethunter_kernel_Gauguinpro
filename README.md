@@ -104,5 +104,17 @@ clear
 sleep 3
 
 echo "done"
+```
+copy and past : Entar.
+
+After doing this you need to give internet permission.
+>Open Kali Terminal 
+>click Root
+>Copy 👇 and Past and Enter:
+
+```groupadd -g 3003 aid_inet && usermod -G nogroup -g aid_inet _apt
+
+echo 'APT::Sandbox::User "root";' > /etc/apt/apt.conf.d/01-android-nosandbox ```
+
 
 
