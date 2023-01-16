@@ -36,6 +36,7 @@ If you want to use Kali NetHunter, you must install Busybox  on your phone, Busy
 
 ## For Zip busybox:
 https://github.com/Magisk-Modules-Repo/busybox-ndk
+https://github.com/meefik/busybox
 
 ## Download and setup some Busybox  for your phone that works on your phone: 
 
