@@ -60,7 +60,7 @@ https://github.com/meefik/busybox
 Once this is done, if you want to do wifi testing from your phone / use wifi adapter / bluetooth adapter / HID Device / Rucky / rubber ducky / USB HUMAN INTERFACE DEVICE / then flash the wifi framework zip using magisk 
 
  Flashing this framework zip is mandatory for doing all kinds of hardware related testing through your mobile.
- [![](https://img.shields.io/badge/Wifi-framework-v1-blue)](https://github.com/masshuvo/Nethunter_kernel_Gauguinpro/releases/download/wi-fi_framework/Wireless_Firmware_for_Nethunter.zip)
+ [![](https://img.shields.io/badge/W_F_W-v1-blue)](https://github.com/masshuvo/Nethunter_kernel_Gauguinpro/releases/download/wi-fi_framework/Wireless_Firmware_for_Nethunter.zip)
  
 ## Link above 🖇️🖇️
 https://forum.xda-developers.com/t/module-wireless-firmware-for-nethunter.3857465/
